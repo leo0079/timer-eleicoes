@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/timer-eleicoes/static/css/main.97fa1c68.css",
+    "main.js": "/timer-eleicoes/static/js/main.9c9761bc.js",
+    "static/js/787.8bbedd88.chunk.js": "/timer-eleicoes/static/js/787.8bbedd88.chunk.js",
+    "static/media/unnamed.png": "/timer-eleicoes/static/media/unnamed.5e88f20bebaa9f8aecb7.png",
+    "index.html": "/timer-eleicoes/index.html",
+    "main.97fa1c68.css.map": "/timer-eleicoes/static/css/main.97fa1c68.css.map",
+    "main.9c9761bc.js.map": "/timer-eleicoes/static/js/main.9c9761bc.js.map",
+    "787.8bbedd88.chunk.js.map": "/timer-eleicoes/static/js/787.8bbedd88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97fa1c68.css",
+    "static/js/main.9c9761bc.js"
+  ]
+}
